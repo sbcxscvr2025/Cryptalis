@@ -7,4 +7,4 @@ If you want to try it yourself, you can try it.
 IMPORTANT: Watch the Video on "https://www.youtube.com/watch?v=qPpAQ5rRBl8" and download the Minecraft Map (if you want to).
            The map was made in Minecraft Java Edition 1.8 you can also try newer versions like 1.8.9, but only use 1.8 versions because it's maded only for 1.8x.
 
-Enjoy the program, and Subscribe on YouTube: "https://www.youtube.com/@sbcxscvr"!
+Enjoy the program, and Subscribe on YouTube: "https://www.youtube.com/@sbcxscvr".
